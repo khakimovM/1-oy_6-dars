@@ -19,3 +19,5 @@ let a = [];
 let b = {};
 let c = b + a;
 console.log(c)
+
+let temp = 30;
